@@ -1,0 +1,11 @@
+.box{
+    border : solid 2px;
+    width:  200px;
+    margin: auto;
+    text-align: center;
+}
+
+.school{
+    display: flex; 
+}
+
